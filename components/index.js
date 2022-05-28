@@ -9,10 +9,12 @@ import {
   SpeakingForm,
   ThanksForm,
   ContactForm,
+  RecruitingForm,
   ContactFormReceivedMessage,
 } from "./ContactForms";
 import FeatureCard from "./FeatureCard";
 import Figure from "./Figure";
+import Float from "./Float";
 import FreeResponse from "./FreeResponse";
 import HomepageFeaturedContent, {
   HomepageFeaturedItem,
@@ -46,6 +48,7 @@ const components = {
   ContactFormReceivedMessage,
   FeatureCard,
   Figure,
+  Float,
   FreeResponse,
   HomepageFeaturedContent,
   HomepageFeaturedItem,
@@ -61,6 +64,7 @@ const components = {
   PodcastLinks,
   Portrait,
   Question,
+  RecruitingForm,
   Section,
   SpeakingForm,
   Spoiler,
